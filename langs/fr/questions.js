@@ -1382,7 +1382,7 @@ var questions = [
             }]
     },
     {
-        question: 'Les changements dans le mode de vie d’un individu peut provoquer des changements de société.',
+        question: 'Les changements dans le mode de vie d’un individu peuvent provoquer des changements de société.',
         answer: 0,
         valuesYes: [{
                 axis: 't1',
