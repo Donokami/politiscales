@@ -1440,7 +1440,7 @@ var questions = [
         valuesNo: []
     },
     {
-        question: '联邦应该被废除。',
+        question: '国家应该被废除。',
         answer: 0,
         valuesYes: [{
                 axis: 'anar',
